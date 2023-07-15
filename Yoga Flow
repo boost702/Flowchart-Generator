@@ -1,0 +1,60 @@
+Start
+Declarations 
+Num class num
+Num size = 5
+String classes[size] = "yoga 1,", "yoga 2", cildrens yoga","prenatal yoga"
+"senior yoga"
+Get ready()
+Finish up()
+Stop
+
+ 
+
+Getready()
+Output "enter a class number >>"
+Input class num
+Return
+
+ 
+
+Display class name()
+If class > = 1 and classrum <= size then
+Output class num, classes [ class num-1]
+Else 
+Output "invalid class number"
+End if
+Return
+Finishup()
+Output "End of program"
+Return
+
+Step-by-step explanation
+Start
+Declarations 
+Num class num
+Num size = 5
+String classes[size] = "yoga 1,", "yoga 2", cildrens yoga","prenatal yoga"
+"senior yoga"
+Get ready()
+Finish up()
+Stop
+
+ 
+
+Getready()
+Output "enter a class number >>"
+Input class num
+Return
+
+ 
+
+Display class name()
+If class > = 1 and classrum <= size then
+Output class num, classes [ class num-1]
+Else 
+Output "invalid class number"
+End if
+Return
+Finishup()
+Output "End of program"
+Return
